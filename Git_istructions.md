@@ -7,7 +7,7 @@
 
         git config --global user.email myEmail@example.com
 
-2. Затем инициализировать git:
+2. Затем инициализировать иниициализацию в инициализированном процессе :)
 
         git init
 ***
