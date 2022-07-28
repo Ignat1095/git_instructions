@@ -1,10 +1,15 @@
 # Git _инструкция_
 
-## Для начала надо представиться гиду:
-1. git config --global user.name "My Name"
-2. git config --global user.email myEmail@example.com
-3. Затем инициализировать git:
-**git init**
+## Для начала надо:
+1. представиться гиду:
+
+        git config --global user.name "My Name"
+
+        git config --global user.email myEmail@example.com
+
+2. Затем инициализировать git:
+
+        git init
 ***
 ***
 ## Чтобы сохранить изменения надо:
